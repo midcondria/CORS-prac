@@ -1,0 +1,15 @@
+h1 {
+  background-color: chartreuse;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  font-size: 30px;
+}
+
+h2 {
+  background-color: brown;
+}
